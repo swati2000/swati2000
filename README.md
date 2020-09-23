@@ -1,4 +1,7 @@
 ### Hi there 👋
+![visitors](https://komarev.com/ghpvc/?username=swati2000)
+<br>
+[![swati2000 github stats](https://github-readme-stats.vercel.app/api?username=swati2000&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **swati2000/swati2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
